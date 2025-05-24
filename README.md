@@ -174,4 +174,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 |----------|-------------|----------|--------|
 | [🤖 Wnada](./gpts-prompts/wnada-job-search/) | Job Search Assistant | 🇨🇳 🇺🇸 | ✅ Ready |
 | [🏢 Daneel](./gpts-prompts/daneel-company-wiki/) | Company Research | 🇨🇳 🇺🇸 | ✅ Ready |
-| [🎨 Bento-Grids](./visualization-prompts/bento-grids-landing-page/) | Landing Page Generator | 🇨�� 🇺🇸 | ✅ Ready |
+| [🎨 Bento-Grids](./visualization-prompts/bento-grids-landing-page/) | Landing Page Generator | 🇨🇳 🇺🇸 | ✅ Ready |
